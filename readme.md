@@ -21,7 +21,7 @@ Install-MMA has a single parameter: RemoteServer
 
 Example: `Install-MMA -RemoteServer OMSAgent`
 
-You will need to do the following in the code to use:
+You will need to define the following in the code to use:
 
 - Define RemoteServer if you don't use the parameter
 - Provide the location of the momagent.msi that you extracted
